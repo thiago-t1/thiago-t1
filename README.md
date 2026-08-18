@@ -117,7 +117,7 @@ Interesses e práticas: **OWASP Top 10, autenticação e autorização, RBAC, pr
 
 </div>
 
-> A animação acima passa a funcionar após adicionar o workflow de geração da snake na branch `output`.
+> Atualizada automaticamente todos os dias por GitHub Actions.
 
 ## 🚀 Projetos & interesses
 
