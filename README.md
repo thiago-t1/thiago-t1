@@ -1,31 +1,23 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7C3AED,100:00FF88&height=210&section=header&text=Thiago%20%7C%20Full%20Stack%20Developer&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Web%20Engineering%20%E2%80%A2%20Cloud%20%E2%80%A2%20Cybersecurity&descAlignY=60&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E3A8A&height=210&section=header&text=Thiago%20%7C%20Full%20Stack%20Developer&fontSize=38&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Software%20Engineering%20%E2%80%A2%20Cybersecurity&descAlignY=60&descSize=18" />
 
 <a href="https://github.com/thiago-t1">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;TypeScript+%7C+Next.js+%7C+Node.js;Cloudflare+Workers+%7C+D1+%7C+SQL;Cybersecurity+%7C+Secure+by+Design;Building+scalable+digital+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;Software+Engineering+%7C+Cybersecurity;TypeScript+%7C+Next.js+%7C+Node.js;Secure+by+Design;Building+scalable+software" alt="Typing SVG" />
 </a>
 
 <br />
 
-![Profile views](https://komarev.com/ghpvc/?username=thiago-t1&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/thiago-t1?style=for-the-badge&color=00b8d9&labelColor=0d1117)
-![GitHub stars](https://img.shields.io/github/stars/thiago-t1?affiliations=OWNER&style=for-the-badge&color=00c853&labelColor=0d1117)
+![GitHub followers](https://img.shields.io/github/followers/thiago-t1?style=for-the-badge&color=1E40AF&labelColor=020617)
+![GitHub stars](https://img.shields.io/github/stars/thiago-t1?affiliations=OWNER&style=for-the-badge&color=1E40AF&labelColor=020617)
 
 </div>
 
 ## 👨‍💻 Sobre mim
 
-```ts
-const thiago = {
-  role: "Full Stack Developer",
-  focus: ["Web Engineering", "Cloud", "Cybersecurity"],
-  currentlyBuilding: "Soluções modernas, seguras e escaláveis",
-  mindset: "Aprender, construir, testar e evoluir continuamente",
-};
-```
-
 Desenvolvedor full stack focado na criação de aplicações web completas — da experiência do usuário à arquitetura de backend, banco de dados, testes e deploy. Gosto de transformar ideias em produtos funcionais, com código limpo, segurança desde o design e atenção à performance.
+
+Meu foco está em **Software Engineering, desenvolvimento Full Stack e Cybersecurity**, criando soluções modernas, seguras e escaláveis. Minha abordagem é simples: aprender, construir, testar e evoluir continuamente.
 
 - 🚀 Construindo aplicações com **TypeScript, React, Next.js e Node.js**
 - ☁️ Explorando arquiteturas serverless com **Cloudflare Workers e D1**
@@ -87,8 +79,8 @@ Desenvolvedor full stack focado na criação de aplicações web completas — d
 
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![Application Security](https://img.shields.io/badge/Application_Security-00C853?style=for-the-badge&logo=hackthebox&logoColor=white)
-![Secure by Design](https://img.shields.io/badge/Secure_by_Design-7C3AED?style=for-the-badge&logo=shield&logoColor=white)
+![Application Security](https://img.shields.io/badge/Application_Security-1E40AF?style=for-the-badge&logo=hackthebox&logoColor=white)
+![Secure by Design](https://img.shields.io/badge/Secure_by_Design-0F172A?style=for-the-badge&logo=shield&logoColor=white)
 
 </div>
 
@@ -100,12 +92,7 @@ Interesses e práticas: **OWASP Top 10, autenticação e autorização, RBAC, pr
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=thiago-t1&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=7C3AED&text_color=C9D1D9&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-t1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=C9D1D9&langs_count=8" alt="Top languages" />
-
-<img width="95%" src="https://streak-stats.demolab.com?user=thiago-t1&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=7C3AED&currStreakLabel=00E5FF" alt="GitHub streak" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiago-t1&bg_color=0d1117&color=00e5ff&line=7c3aed&point=00ff88&area=true&hide_border=true" alt="Contribution graph" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiago-t1&bg_color=020617&color=94A3B8&line=2563EB&point=60A5FA&area=true&area_color=172554&hide_border=true" alt="Contribution graph" />
 
 </div>
 
@@ -137,6 +124,6 @@ Interesses e práticas: **OWASP Top 10, autenticação e autorização, RBAC, pr
 
 ### 💬 Aberto a conexões, colaboração e novos desafios.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF88,50:7C3AED,100:00E5FF&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0F172A,100:1E3A8A&height=120&section=footer" />
 
 </div>
