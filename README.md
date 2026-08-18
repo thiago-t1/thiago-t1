@@ -15,15 +15,20 @@
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor full stack focado na criação de aplicações web completas — da experiência do usuário à arquitetura de backend, banco de dados, testes e deploy. Gosto de transformar ideias em produtos funcionais, com código limpo, segurança desde o design e atenção à performance.
+Desenvolvedor **Full Stack** focado em criar software moderno, seguro e escalável — do frontend ao backend, banco de dados, testes e deploy.
 
-Meu foco está em **Software Engineering, desenvolvimento Full Stack e Cybersecurity**, criando soluções modernas, seguras e escaláveis. Minha abordagem é simples: aprender, construir, testar e evoluir continuamente.
+Transformo ideias em produtos funcionais com atenção à **experiência do usuário, qualidade do código, performance e segurança**.
 
-- 🚀 Construindo aplicações com **TypeScript, React, Next.js e Node.js**
-- ☁️ Explorando arquiteturas serverless com **Cloudflare Workers e D1**
-- 🛡️ Estudando **Cybersecurity, Linux, Kali Linux e segurança de aplicações**
-- 🧪 Valorizando qualidade com **testes unitários, integração e E2E**
-- 📚 Sempre evoluindo em arquitetura, DevSecOps e boas práticas de engenharia
+<div align="center">
+
+`Software Engineering` · `Full Stack Development` · `Cybersecurity`
+
+</div>
+
+- ⚡ **Stack principal:** TypeScript, React, Next.js e Node.js
+- 🛡️ **Segurança:** aplicações seguras, Linux, Kali Linux e OWASP
+- 🧪 **Qualidade:** testes unitários, integração e E2E
+- 🚀 **Objetivo:** construir soluções úteis, robustas e bem projetadas
 
 ## 🧰 Tech Stack
 
@@ -87,14 +92,6 @@ Meu foco está em **Software Engineering, desenvolvimento Full Stack e Cybersecu
 Interesses e práticas: **OWASP Top 10, autenticação e autorização, RBAC, proteção contra brute force, rate limiting, security headers, validação de entrada, análise de vulnerabilidades, hardening e estudos de malware em ambientes controlados para fins educacionais e defensivos.**
 
 > 🔐 Segurança não é uma etapa final: faz parte de todo o ciclo de desenvolvimento.
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=thiago-t1&bg_color=020617&color=94A3B8&line=2563EB&point=60A5FA&area=true&area_color=172554&hide_border=true" alt="Contribution graph" />
-
-</div>
 
 ## 🐍 Contribuições em movimento
 
