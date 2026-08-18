@@ -118,6 +118,9 @@ Interesses e práticas: **OWASP Top 10, autenticação e autorização, RBAC, pr
 <a href="https://github.com/thiago-t1">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
+<a href="https://www.linkedin.com/in/thiagocampos-ti/">
+  <img src="https://img.shields.io/badge/LinkedIn-1E40AF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 
 ### 💬 Aberto a conexões, colaboração e novos desafios.
 
